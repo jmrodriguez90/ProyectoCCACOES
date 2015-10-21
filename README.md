@@ -6,4 +6,4 @@ La situación de los donantes está en que los abonos que realizan, se envían p
 
 El proyecto va enfocado en presentar de manera equilibrada las ayudas que diversos donantes  envían a sus becarios en Honduras mediante el registro en una aplicación web que va alimentando una base de datos, y a la vez, existirá una retroalimentación de la administración general de [*ACOES Honduras*](http://www.acoes.org) donde indican haber recibido y otorgado la donación recibida.
 
-El lenguaje a utilizar será Java y se intentará manejar la base de datos en Azure y trabaja bajo licencia GPL.
+El lenguaje a utilizar será Java y se intentará manejar la base de datos en Azure y trabaja bajo licencia GPL. Además, el proyecto está inscrito en el [*Certamen de Proyectos Libres de la UGR 2015-2016*](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/)
