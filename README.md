@@ -8,4 +8,4 @@ El proyecto va enfocado en presentar de manera equilibrada las ayudas que divers
 
 El lenguaje a utilizar será Java y se intentará manejar la base de datos en Azure y a lo largo del curso se irán trabajando diversas herramientas de Cloud para maximizar el potencial del proyecto con dichas herramientas.
 
-Este proyecto trabaja bajo licencia GPL. Además, el proyecto está inscrito en el [*Certamen de Proyectos Libres de la UGR 2015-2016*](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/)
+Este proyecto trabaja bajo licencia GPL, además, está inscrito en el [*Certamen de Proyectos Libres de la UGR 2015-2016*](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/), pueden verse [aquí](https://docs.google.com/document/d/16UsdUV_XXuPUh-Imz4PSgh-2ES_YaAJpZ8fNrbTVpMA/edit) las bases del [Certamen](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/)
