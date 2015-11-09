@@ -1,4 +1,7 @@
 language: java
   - "1.8"
   - "1.7"
-service: Unit Test
+jdk:
+  - oraclejdk8
+  - oraclejdk7
+  - openjdk6
