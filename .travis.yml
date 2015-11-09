@@ -1,7 +1,4 @@
 language: java
   - "1.8"
   - "1.7"
-jdk:
-  - oraclejdk8
-  - oraclejdk7
-  - openjdk6
+javaSE: 1.8
