@@ -1,10 +1,10 @@
-<project name="HelloWorld" basedir="." default="main">
-    <property name="dir.src"     value="src"/>
+<project name="ProyectoCCACOES" basedir="." default="main">
+    <property name="dir.ACOES"     value="ACOES"/>
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
 
-    <property name="main-class"  value="cj.HelloWorld"/>
+    <property name="main-class"  value="ACOES.ProyectoCCACOES"/>
 
     <target name="clean">
         <delete dir="${dir.build}"/>
