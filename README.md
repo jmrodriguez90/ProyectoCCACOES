@@ -1,4 +1,7 @@
 # Proyecto Cloud Computing ACOES
+
+[*Badge*](https://travis-ci.org/jmrodriguez90/ProyectoCCACOES.svg?branch=master)
+
 Este proyecto, a efecto de ser evaluado en la clase de CC, servirá para gestionar las donaciones entre una entidad benéfica y un donante.
 
 [*ACOES,*](http://www.acoes.org) es una iniciativa del padre Patricio Larrosa, sacerdote granadino que tiene alrededor de 46 proyectos de promoción social en Honduras, uno de ellos, las becas de niños de escasos recursos en el cual se basa este proyecto de desarrollo.
