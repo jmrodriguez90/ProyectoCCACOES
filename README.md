@@ -12,3 +12,12 @@ El proyecto va enfocado en presentar de manera equilibrada las ayudas que divers
 El lenguaje a utilizar será Java y se intentará manejar la base de datos en Azure y a lo largo del curso se irán trabajando diversas herramientas de Cloud para maximizar el potencial del proyecto con dichas herramientas.
 
 Este proyecto trabaja bajo licencia GPL, además, está inscrito en el [*Certamen de Proyectos Libres de la UGR 2015-2016*](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/), pueden verse [aquí](https://docs.google.com/document/d/16UsdUV_XXuPUh-Imz4PSgh-2ES_YaAJpZ8fNrbTVpMA/edit) las bases del [Certamen](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/)
+
+---------------------------------------------------------------------------------------------------------------------
+
+##**Justificación de uso de Test e Integración Continua**
+para efectos de test, se ha decido utilizar [*Mocha*](http://mochajs.org/) por ser, como su slogan lo menciona; simple y muy flexible, el proyecto es trabaja con lenguaje Java y la Integración Continua se realiza en Travis-CI, el cual es un entorno estable y muy confiable para la realización de esto. La integración se realizó a través del archivo .travis.yml, en el que se indica el entorno de programación a utilizar y un archivo build.xml en el que se indican los directorios a integrar.
+
+En el inicio de este README, aparece el [*Badge*](https://travis-ci.org/jmrodriguez90/ProyectoCCACOES.svg?branch=master) correspondiente a la correcta funcionalidad de la integración continua.
+
+[*Desde aquí podrán acceder directamente a la web del proyecto*](http://jmrodriguez90.github.io/ProyectoCCACOES/)
