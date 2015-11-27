@@ -18,6 +18,6 @@ Este proyecto trabaja bajo licencia GPL, además, está inscrito en el [*Certame
 ##**Justificación de uso de Test e Integración Continua**
 para efectos de test, se ha decido utilizar [*Mocha*](http://mochajs.org/) por ser, como su slogan lo menciona; simple y muy flexible, el proyecto es trabaja con lenguaje Java y la Integración Continua se realiza en [Travis-CI](https://travis-ci.org/jmrodriguez90/ProyectoCCACOES), el cual es un entorno estable y muy confiable para la realización de esto. La integración se realizó a través del archivo [.travis.yml](https://github.com/jmrodriguez90/ProyectoCCACOES/blob/master/.travis.yml), en el que se indica el entorno de programación a utilizar, además, un archivo [build.xml](https://github.com/jmrodriguez90/ProyectoCCACOES/blob/master/build.xml) en el que se indican los directorios a integrar.
 
-En el inicio de este README, aparece el [*Badge*](https://travis-ci.org/jmrodriguez90/ProyectoCCACOES.svg?branch=master) correspondiente a la correcta funcionalidad de la integración continua.
+En el inicio de este README, aparece el [*Badge*](https://travis-ci.org/jmrodriguez90/ProyectoCCACOES) correspondiente a la correcta funcionalidad de la integración continua.
 
 [*Desde aquí podrán acceder directamente a la web del proyecto*](http://jmrodriguez90.github.io/ProyectoCCACOES/)
